@@ -1,0 +1,7 @@
+﻿  PQ.cpp
+F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\PQ.cpp(119,9): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\PQ.cpp(125,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\PQ.cpp(172,10): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\PQ.cpp(178,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\PQ.cpp(180,18): warning C4244:  '+=': conversion from 'float' to 'int', possible loss of data
+  Printer Queue Assignment.vcxproj -> F:\Coding (Stay Out)\C++\Data Structures and Algorithms\Printer Queue Assignment\Debug\Printer Queue Assignment.exe
